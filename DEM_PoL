@@ -1,6 +1,6 @@
 return {
     Polish = {
-        ["Main"] = "",
+        ["Main"] = "głównie",
         ["Visuals"] = "",
         ["Teleports"] = "",
         ["Player"] = "",
