@@ -1,6 +1,6 @@
 return {
     -- Tabs
-    ["Main"] = "",
+    ["Main"] = "Maen",
     ["Visuals"] = "",
     ["Teleports"] = "",
     ["Player"] = "",
